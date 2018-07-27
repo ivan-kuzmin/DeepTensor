@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head >
+<head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="Tensor networks and deep learning for applications in data mining, Skoltech, Dmitry  Vetrov">
-    <meta name="description" content="Skoltech | Laboratory of Prof. Andrzej Cichocki | Tensor networks and deep learning for applications in data mining | Team | Dmitry  Vetrov">
+    <meta name="keywords" content="Tensor networks and deep learning for applications in data mining, Skoltech, Evgeny Burnaev">
+    <meta name="description" content="Skoltech | Laboratory of Prof. Andrzej Cichocki | Tensor networks and deep learning for applications in data mining | Team | Evgeny Burnaev">
     <meta rel="icon" href="./static/pictures/logo/favicon.png">
     <link rel="stylesheet" href="style.css">
-    <title >Team | Evgeny Burnaev</title>
+    <title>Team | Evgeny Burnaev</title>
 </head>
 <body class="html__body body">
     <div class="body__page page">
         <header class="page__header header">
             <a href="index.html" class="header__logo button-logo"></a>
             <p class="header__title">Tensor networks and deep learning for applications in data mining</p>
-            <a href="rus/dmitry _vetrov.html" class="header__lang button-lang"></a>
+            <a href="rus/evgeny_burnaev.html" class="header__lang button-lang"></a>
         </header>
         <nav class="page__nav nav">
             <a href="index.html" class="nav__item button-light">Home</a>
@@ -27,7 +27,7 @@
         <main class="page__content content">
             <div class="man">
                 <section class="man__main man--main">
-                    <div class="man--main__image"><img src="./static/pictures/team/evgeny_burnaev.jpg" style="width: 100%; height: auto;" width="350" height="auto" alt=""></div>
+                    <div class="man--main__image"><img src="./static/pictures/team/team_evgeny_burnaev.jpg" style="width: 100%; height: auto;" width="350" height="auto" alt=""></div>
                     <section class="man--main__text text">
                         <h2 class="text__title">Evgeny Burnaev</h2>
                         <p class="text__s">Associate Professor</p>
@@ -42,7 +42,7 @@
                 </section>
                 <section class="man__publist">
                     <h2 class="text__title text">Publications since 2016</h2>
-                    <p >
+                    <p>
                         <div class="tabs">
                             <nav class="bar bar_left">
                                 <a href="#y2016" class="bar__item bar__item_left button-dark">2016</a>
@@ -68,30 +68,8 @@
     <script src="script.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0HvlqbtfXpnS1rO4xMxXzPVrGQlWoVYA&callback=initMap"></script>
-    <script type="text/javascript" src="./db/publications.js"></script>
-    <script type="text/javascript">
-        var years = ["2016", "2017", "2018"]
-        var name = "Engeny Burnaev"
-        years.forEach(function(e) {
-            var str = ""
-            var leaders = ["Cichocki Andrzej", "Oseledets Ivan", "Lempitsky Victor", "Engeny Burnaev", "Khrulkov Valentin", "Vetrov Dmitry", "Phan Anh-Huy"]
-            for (var i = 0; i < publications.length; i++) {
-                if (publications[i].year == e) {
-                    var authors = ""
-                    if (publications[i].authors.includes(name)) {
-                        for (j = 0; j < publications[i].authors.length; j++) {
-                            var lead = ""
-                            if (leaders.includes(publications[i].authors[j])) {
-                                lead =  " class=\"text__em\""
-                            }
-                            authors = authors + "<span" + lead + "> " + publications[i].authors[j] + "</span>,"
-                        }
-                        str = str + "<a href=\"" + publications[i].link + "\"  target=\"_blank\" class=\"text__title link link_link_www\">" + publications[i].name + " // " + publications[i].journal + "</a><p class=\"text__sub text__sub_left\">" + authors.slice(0, -8) + "</span>.</p><p class=\"text__sub text__sub_right\"><span>| " + publications[i].year + "</span></p>"
-                    }
-                }
-            }
-            document.getElementById("y"+e).innerHTML = str
-        })
-    </script>
+    <<script type="text/javascript" src="./db/publications.js"></script>
+    <script type="text/javascript">var name = "Evgeny Burnaev"</script>
+    <script type="text/javascript" src="./show_publications.js"></script>
 </body>
 </html>

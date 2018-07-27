@@ -1438,7 +1438,7 @@ var publications = [
 		"journal":"Proc. ACL-2017.",
 		"authors": [
 			"Fonarev Alexander",
-			"Hrinchuk Oleksii",
+			"Aleksey Grinchuk",
 			"Gusev Gleb",
 			"Serdyukov Pavel",
 			"Oseledets Ivan"

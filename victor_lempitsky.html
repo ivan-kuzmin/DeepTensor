@@ -9,8 +9,7 @@
     <meta name="description" content="Skoltech | Laboratory of Prof. Andrzej Cichocki | Tensor networks and deep learning for applications in data mining | Team | Victor Lempitsky">
     <meta rel="icon" href="./static/pictures/logo/favicon.png">
     <link rel="stylesheet" href="style.css">
-    <title>Team | Victor Lempitsky
-    </title>
+    <title>Team | Victor Lempitsky</title>
 </head>
 
 <body class="html__body body">
@@ -93,29 +92,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0HvlqbtfXpnS1rO4xMxXzPVrGQlWoVYA&callback=initMap"></script>
     <script type="text/javascript" src="./db/publications.js"></script>
-    <script type="text/javascript">
-        var years = ["2016", "2017", "2018"]
-        var name = "Lempitsky Victor"
-        years.forEach(function(e) {
-            var str = ""
-            var leaders = ["Cichocki Andrzej", "Oseledets Ivan", "Lempitsky Victor", "Engeny Burnaev", "Khrulkov Valentin", "Vetrov Dmitry", "Phan Anh-Huy"]
-            for (var i = 0; i < publications.length; i++) {
-                if (publications[i].year == e) {
-                    var authors = ""
-                    if (publications[i].authors.includes(name)) {
-                        for (j = 0; j < publications[i].authors.length; j++) {
-                            var lead = ""
-                            if (leaders.includes(publications[i].authors[j])) {
-                                lead =  " class=\"text__em\""
-                            }
-                            authors = authors + "<span" + lead + "> " + publications[i].authors[j] + "</span>,"
-                        }
-                        str = str + "<a href=\"" + publications[i].link + "\"  target=\"_blank\" class=\"text__title link link_link_www\">" + publications[i].name + " // " + publications[i].journal + "</a><p class=\"text__sub text__sub_left\">" + authors.slice(0, -8) + "</span>.</p><p class=\"text__sub text__sub_right\"><span>| " + publications[i].year + "</span></p>"
-                    }
-                }
-            }
-            document.getElementById("y"+e).innerHTML = str
-        })
-    </script>
+    <script type="text/javascript">var name = "Lempitsky Victor"</script>
+    <script type="text/javascript" src="./show_publications.js"></script>
 </body>
 </html>
