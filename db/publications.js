@@ -567,7 +567,7 @@ var publications = [
 		"name": "Robust discretization in quantized tensor train format for elliptic problems in two dimensions.",
 		"journal":"",
 		"authors": [
-			"Chertkov A",
+			"Chertkov Andrei",
 			"Oseledets Ivan",
 			"Rakhuba M"
 		],
