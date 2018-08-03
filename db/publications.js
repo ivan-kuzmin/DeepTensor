@@ -984,7 +984,7 @@ var publications = [
 		"year": "2016"
 	},
 	{
-		"name": "Editorial:  Biomedical Signal Processing: From a Conceptual Framework to Clinical Applications",
+		"name": "Editorial: Biomedical Signal Processing: From a Conceptual Framework to Clinical Applications",
 		"journal":"Proceedings of the IEEE.",
 		"authors": [
 			"Mathias Baumert",
@@ -1217,18 +1217,6 @@ var publications = [
 		"year": "2017"
 	},
 	{
-		"name": "Canonical Polyadic Decomposition With Auxiliary Information for Brain-Computer Interface",
-		"journal":"IEEE Journal of Biomedical and Health Informatics.",
-		"authors": [
-			"Li Junhua",
-			"Li Chao",
-			"Cichocki Andrzej"
-		],
-		"link":"https://arxiv.org/pdf/1410.6313.pdf",
-		"text": "",
-		"year": "2017"
-	},
-	{
 		"name": "A New Generation of Brain-Computer Interfaces Driven by Discovery of Latent EEG-fMRI Linkages using Tensor Decomposition",
 		"journal":"Frontiers in Neuroscience.",
 		"authors": [
@@ -1254,7 +1242,7 @@ var publications = [
 		"year": "2017"
 	},
 	{
-		"name": "Tensor Networks for Dimensionality Reduction and Large-scale Optimization: Part 2 Applications and Future Perspectives",
+		"name": "Tensor Networks for Dimensionality Reduction and Large-scale Optimization: Part 2 Potential Applications and Future Perspectives",
 		"journal":"Foundations and Trends in Machine Learning.",
 		"authors": [
 			"Cichocki Andrzej",
@@ -1262,7 +1250,8 @@ var publications = [
 			"Zhao Qibin",
 			"Lee Namgil",
 			"Oseledets Ivan",
-			"Sugiyama Masashi"
+			"Sugiyama Masashi",
+			"Mandic Danilo"
 		],
 		"link":"http://www.nowpublishers.com/article/Details/MAL-067",
 		"text": "",
