@@ -37,6 +37,10 @@ html, body {
   text-align: center;
   font-size: 9px;
   color: lightgray;
+  opacity: 0.4;
+}
+#signature:hover {
+  opacity: 1;
 }
 .general_chair_avatar {
   width: 60%;
