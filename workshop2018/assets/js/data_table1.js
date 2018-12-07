@@ -29,14 +29,14 @@ const data_table1 = [
    "color": "",
    "name": "Qibin Zhao",
    "from": "RIKEN Artificial Intelligence Program, Japan",
-   "paper": "Tensor Methods in Machine Learning--Tensor Completion Methods for Incomplete Data",
+   "paper": "Tensor Methods in Machine Learning – Tensor Completion Methods for Incomplete Data",
  },
  {
    "start": "12:00",
    "end": "12:40",
    "color": "",
    "name": "Jianting Cao",
-   "from": "Saitama Institute of Technology and AIP RIKEN, Japan",
+   "from": "Saitama Institute of Technology, Japan",
    "paper": "PU Learning and Application to Epilepsy Focal Detection",
  },
  {
@@ -53,7 +53,7 @@ const data_table1 = [
    "color": "",
    "name": "Dmitry Yarotsky",
    "from": "Skoltech",
-   "paper": "New Results in Theoretical Deep Learning",
+   "paper": "Effects of Depth in Neural Networks: an Approximation Theory Perspective",
  },
  {
    "start": "14:10",
@@ -99,9 +99,9 @@ const data_table1 = [
    "start": "15:30",
    "end": "15:45",
    "color": "",
-   "name": "Timur Garipov",
-   "from": "Lomonosov MSU",
-   "paper": "Loss Surfaces, Fast Ensembling and Weight Averaging of DNNs",
+   "name": "Kirill Struminsky",
+   "from": "HSE",
+   "paper": "Learning Guarantees for Convex but Inconsistent Surrogates",
  },
  {
    "start": "15:45",
@@ -111,30 +111,4 @@ const data_table1 = [
    "from": "Skoltech",
    "paper": " Matrix Factorization for Structured Time-series Prediction",
  },
-];
-
-var table2 = [
- {
-   "start": "10:00",
-   "end": "10:15",
-   "color": "",
-   "name": "hshshshs",
-   "from": "SKOLTECH Professor",
-   "paper": "Mega Grant Lab Overview, Multi-block Tensor Decompositions and Multiway Component Analysis",
- },
- // {
- //   "start": "10:15",
- //   "end": "10:40",
- //   "Password": "123",
- // },
- // {
- //   "start": "10:40",
- //   "end": "11:20",
- //   "Password": "123",
- // },
- // {
- //   "start": "11:20",
- //   "end": "12:00",
- //   "Password": "1234",
- // }
 ];

@@ -1887,5 +1887,111 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2018"
+	},
+	{
+		"name": "Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces",
+		"journal":"Expert Systems with Applications.",
+		"authors": [
+			"Zhang Y.",
+			"Wang Y.",
+			"Zhou G.",
+			"Jin J.",
+			"Wang B.",
+			"Wang X.",
+			"Cichocki Andrzej"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
+	},
+	{
+		"name": "A Robust PCA approach with noise structure learning and spatial-spectral low-rank modeling for Hyperspectral Image Restoration",
+		"journal":"IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.",
+		"authors": [
+			"W. Cao",
+			"K. Wang",
+			"G. Han",
+			"J. Yao",
+			"Cichocki Andrzej"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
+	},
+	{
+		"name": "Error preserving correction for CPD and bounded-norm CPD",
+		"journal":"IEEE Transaction on Signal Processing.",
+		"authors": [
+			"Phan Anh-Huy",
+			"Tichavsky Petr",
+			"Cichocki Andrzej"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
+	},
+	{
+		"name": "Learning the hierarchical parts of objects by deep non-smooth nonnegative matrix factorization",
+		"journal":"IEEE Access.",
+		"authors": [
+			"J. Yu",
+			"G. Zhou",
+			"Cichocki Andrzej",
+			"S. Xie"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
+	},
+	{
+		"name": "Effect of a combination of flip and zooming stimuli on the performance of a visual brain-computer interface for spelling",
+		"journal":"Biomedical Engineering/Biomedizinische Technik.",
+		"authors": [
+			"Cheng J.",
+			"Jin J.",
+			"Daly I.",
+			"Zhang Y.",
+			"Wang B.",
+			"Wang X.",
+			"Cichocki Andrzej"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
+	},
+	{
+		"name": "Combining behavior and EEG analysis for exploration of dynamic effects of ADHD treatment in animal models",
+		"journal":"Journal of Neuroscience Methods.",
+		"authors": [
+			"Jurica P.",
+			"Struzik Z.R.",
+			"Li J.",
+			"Horiuchi M.",
+			"Hiroyama S.",
+			"Takahara Y.",
+			"Nishitomi K.",
+			"Ogawa K.",
+			"Cichocki Andrzej"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
+	},
+	{
+		"name": "Visualization and sonification of long-term epilepsy electroencephalogram monitoring",
+		"journal":"Journal of Medical and Biological Engineering.",
+		"authors": [
+			"Lin J.W.",
+			"Chen W.",
+			"Shen C.P.",
+			"Chiu M.J.",
+			"Kao Y.H.",
+			"Lai F.",
+			"Zhao Q.",
+			"Cichocki Andrzej"
+		],
+		"link":"",
+		"text": "",
+		"year": "2018"
 	}
 ]

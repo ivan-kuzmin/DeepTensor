@@ -28,6 +28,12 @@ html, body {
   /* background: rgba(255, 255, 255, 0.2); */
   /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
+.mylink, .sticky-top .nav-link {
+  text-decoration: underline;
+}
+.sticky-top .nav-link:hover {
+  color: gray !important;
+}
 #signature {
   position: absolute;
   bottom: -1.5rem;
