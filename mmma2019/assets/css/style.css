@@ -1,0 +1,53 @@
+html, body {
+  background: #e6e6ef;
+  position: relative;
+}
+@media (min-width: 991.98px) {
+  .container {
+    max-width: 65%;
+  }
+  #header .col {
+    margin-top: 100px;
+  }
+}
+@media (max-width: 991.98px) {
+  #header h1 {
+    font-size: 1.5rem;
+  }
+  #header h4 {
+    font-size: 1.0rem;
+  }
+}
+#background {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  filter: brightness(40%);
+}
+#header .col {
+  /* background: rgba(255, 255, 255, 0.2); */
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+}
+.mylink, .sticky-top .nav-link {
+  text-decoration: underline;
+}
+.sticky-top .nav-link:hover {
+  color: gray !important;
+}
+#signature {
+  position: absolute;
+  bottom: -1.5rem;
+  /* right: 20px; */
+  width: 100%;
+  left: 0;
+  text-align: center;
+  font-size: 9px;
+  color: lightgray;
+  opacity: 0.2;
+}
+#signature:hover {
+  opacity: 0.3;
+}
+.general_chair_avatar {
+  width: 60%;
+}
