@@ -1994,4 +1994,536 @@ var publications = [
 		"text": "",
 		"year": "2018"
 	}
+	{
+		"name": "Tensor networks for latent variable analysis:  Higher order Canonical Polyadic decomposition",
+		"journal":"IEEE Transactions on Neural Networks and Learning Systems.",
+		"authors": [
+			"Phan, A.-H.",
+			"Cichocki, A.",
+			"Oseledets, I.",
+			"Ahmadi Asl, S.",
+			"Calvi, G.",
+			"Mandic, D.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Temporally constrained sparse group spatial patterns for motor imagery BCI",
+		"journal":"IEEE Transactions on Cybernetics.",
+		"authors": [
+			"Zhang, Y.",
+			"Nam, C. S.",
+			"Zhou, G.",
+			"Jin, J.",
+			"Wang, X.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Error preserving correction: A method for CP decomposition at a target error bound",
+		"journal":"IEEE Transactions on Signal Processing.",
+		"authors": [
+			"Phan, A.-H.",
+			"Wang, X.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "A novel deep learning approach with data augmentation to classify motor imagery signals",
+		"journal":"IEEE Access.",
+		"authors": [
+			"Zhang, Z.",
+			"Duan, F.",
+			"Solé-Casals, J.",
+			"Dinarès-Ferran, J.",
+			"Cichocki, A.",
+			"Yang, Z.",
+			"Sun, Z.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Sparse group representation model for motor imagery EEG classification",
+		"journal":"IEEE Journal of Biomedical and Health Informatics.",
+		"authors": [
+			"Jiao, Y.",
+			"Zhang, Y.",
+			"Chen, X.",
+			"Yin, E.",
+			"Jin, J.",
+			"Wang, X.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Regularized group sparse discriminant analysis for P300-Based brain-computer interface",
+		"journal":"International Journal of Neural Systems.",
+		"authors": [
+			"Wu, Q.",
+			"Zhang, Y.",
+			"Liu, J.",
+			"Sun, J.",
+			"Cichocki, A.",
+			"Gao, F.",
+			
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": " A hybrid system for distinguishing between brain death and coma using diverse EEG features",
+		"journal":"Sensors.",
+		"authors": [
+			"Zhu, L.",
+			"Cui, G.",
+			"Cao, J.",
+			"Cichocki, A.",
+			"Zhang, J.",
+			"Zhou, C.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Bayesian optimization for seed germination",
+		"journal":"Plant Methods.",
+		"authors": [
+			"Nikitin, A.",
+			"Fastovets, I.",
+			"Shadrin, D.",
+			"Pukalchik, M.",
+			"Oseledets, I.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems",
+		"journal":"Frontiers in Neuroscience.",
+		"authors": [
+			"Kuzina, A.",
+			"Egorov, E.",
+			"Burnaev, E.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Sensitivity in Tensor Decomposition",
+		"journal":"IEEE Signal processing letters.",
+		"authors": [
+			"Tichavsky, P.",
+			"Phan, A-H.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Tensor networks for latent variable analysis:Novel Algorithms for Tensor Train Approximation",
+		"journal":" IEEE Transactions on Neural Network and Learning System.",
+		"authors": [
+			"Phan, A.-H.",
+			"Cichocki, A.",
+			"Uschmajew,  A.",
+			"Tichavský, P.",
+			"Luta, G.",
+			"Mandic, D.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "“Face representations via Tensorfaces of various complexity",
+		"journal":"Neural Computation.",
+		"authors": [
+			"Lehky, S. R.",
+			"Phan, A.-H.",
+			"Cichocki, A.",
+			"Tanaka, K.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Correlation-based channel selection and regularized feature optimization for MI-based BCI. ",
+		"journal":"Neural Networks.",
+		"authors": [
+			"Jin, J.",
+			"Miao, YY.",
+			"Daly, I.",
+			"Zuo, CL.",
+			"Hu, DW.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Investigation of visual stimulus with various colors and the layout for the oddball paradigm in ERP-based BCI",
+		"journal":"Frontiers in Computational Neuroscience.",
+		"authors": [
+			"Guo, M.",
+			"Jin, J.",
+			"Jiao, Y.",
+			"Wang, X.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Novel hybrid brain-computer interface system based on motor imagery and P300.",
+		"journal":"Cognitive Neurodynamics.",
+		"authors": [
+			"Zuo, CL.",
+			"Jin, J.",
+			"Yin, EW.",
+			"Saab, R.",
+			"Miao, YY.",
+			"Wang, XY.",
+			"Hu, DW.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Quadratic programming over ellipsoids and its applications to constrained linear regression and tensor decomposition",
+		"journal":"Neural Computing & Application.",
+		"authors": [
+			"Phan, A.-H.",
+			"Yamagashi, M.",
+			"Mandic, D.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "An Optimized Channel Selection Method Based on Multifrequency CSP-Rank for Motor Imagery-Based BCI System",
+		"journal":"Computational Intelligence and Neuroscience.",
+		"authors": [
+			"Feng, JK.",
+			"Jin, J.",
+			"Daly, I.",
+			"Zhou, JL.",
+			"Niu, YG.",
+			"Wang, XY.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "An ERP-based BCI with peripheral stimuli: validation with ALS patients",
+		"journal":"Cognitive Neurodynamics.",
+		"authors": [
+			"Yangyang, M.",
+			"Yin, E.",
+			"Allison, B. Z.",
+			"Zhang, Y.",
+			"Chen, Y.",
+			"Dong, Y.",
+			"Wang, X.",
+			"Hu, D.",
+			"Cichocki, A.",
+			"Jin, J.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Efficient representations of EEG signals for SSVEP frequency recognition based on deep multiset CCA",
+		"journal":"Neurocomputing..",
+		"authors": [
+			"Liu, Q.",
+			"Jiao, Y.",
+			"Zuo, C.",
+			"Wang, X.",
+			"Cichocki, A.",
+			"Jin, J.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Task-free brainprint recognition based on low-rank and sparse decomposition model",
+		"journal":"International Journal of Data Mining and Bioinformatics.",
+		"authors": [
+			"Kong, WZ.",
+			"Kong, XH.",
+			"Fan, QN.",
+			"Zhao, QB.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+
+	{
+		"name": "Effect of a combination of flip and zooming stimuli on the performance of a visual brain-computer interface for spelling",
+		"journal":"Biomedical Engineering/Biomedizinische Technik.",
+		"authors": [
+			"Cheng, J.",
+			"Jin, J.",
+			"Daly, I.",
+			"Zhang, Y.",
+			"Wang, B.",
+			"Wang, X.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "The Study of Generic Model Set for Reducing Calibration Time in P300-based Brain-Computer Interface",
+		"journal":"IEEE Transactions on Neural Systems and Rehabilitation Engineering.",
+		"authors": [
+			"Jin, J.",
+			"Li, S.",
+			"Daly, I.",
+			"Miao, Y.",
+			"Liu, C.",
+			"Wang, X.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Flexible non-negative matrix factorization with adaptively learned graph regularization",
+		"journal":"IEEE International Conference on Acoustics, Speech and Signal Processing.",
+		"authors": [
+			"Peng, Y.",
+			"Long,Y.",
+			"Qin, F.",
+			"Kong, W.",
+			"Nie, F.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Joint structured graph learning and clustering based on concept factorization",
+		"journal":" IEEE International Conference on Acoustics, Speech and Signal Processing.",
+		"authors": [
+			"Peng, Y.",
+			"Tang, R.",
+			"Kong, W.",
+			"Zhang, J.",
+			"Nie, F.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Joint structured graph learning and unsupervised feature selection",
+		"journal":"IEEE International Conference on Acoustics, Speech and Signal Processing.",
+		"authors": [
+			" Peng, Y.",
+			"Zhang, L.",
+			"Kong, W.",
+			"Nie, F.",
+			"Cichocki, A.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Generalized tensor models for recurrent neural networks",
+		"journal":"International Conference on Learning Representations.",
+		"authors": [
+			"Khrulkov, V.",
+			"Hrinchuk, O.",
+			"Oseledets, I.V.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "IceVisionSet: lossless video dataset collected on Russian winter roads with traffic sign annotations",
+		"journal":"EEE International Conference on Robotics and Automation.",
+		"authors": [
+			"Pavlov, A.",
+			"Karpyshev, P.",
+			"Ovchinnikov, G.",
+			"Oseledets, I. V.",
+			"Tsetserukou, D.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Latent convolutional models",
+		"journal":"International Conference on Learning Representations.",
+		"authors": [
+			"Athar, S.",
+			"Burnaev, E.",
+			"Lempitsky, V. S.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "The deep weight prior",
+		"journal":"International Conference on Learning Representations.",
+		"authors": [
+			" Atanov, A.",
+			"Ashukha, A.",
+			"Struminsky, K.",
+			"Vetrov, D.P.",
+			"Welling, M.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "A Simple Method to Evaluate Support Size and Non-uniformity of a Decoder-Based Generative Model.",
+		"journal":"8th International Conference - Analysis of Images, Social networks and Texts.",
+		"authors": [
+			"Struminsky, K.",
+			"Vetrov, D.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Neural networks for topology optimization",
+		"journal":"Russian journal of numerical analysis and mathematical modelling.",
+		"authors": [
+			"Sosnovik, I.",
+			"Oseledets, I.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Tensorized embedding layers for efficient model compression",
+		"journal":".",
+		"authors": [
+			"Khrulkov, V.",
+			"Hsinchu, O.",
+			"Mirvakhabova, L.",
+			"Oseledets, I.V.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Reduced-Order Modeling of Deep Neural Networks.",
+		"journal":"arXiv preprint arXiv:1910.06995.",
+		"authors": [
+			"Daulbaev, T.",
+			"Gusak, J.",
+			"Ponomarev, E.",
+			"Cichocki, A.,
+			"Oseledets, I.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Hyperbolic Image Embeddings.",
+		"journal":"arXiv preprint arXiv:1904.02239.",
+		"authors": [
+			"Khrulkov, V.",
+			"Mirvakhabova, L.",
+			"Ustinova, E.",
+			"Oseledets, I.",
+			"Lempitsky, V.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Universality Theorems for Generative Models.",
+		"journal":"arXiv preprint arXiv:1905.11520.",
+		"authors": [
+			"Khrulkov, V.",
+			"Oseledets, I",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Intrinsic Multi-scale Evaluation of Generative Models",
+		"journal":"arXiv preprint arXiv:1905.11141.",
+		"authors": [
+			"Tsitsulin, A.",
+			"Munkhoeva, M.",
+			"Mottin, D.",
+			"Karras, P.",
+			"Bronstein, A.",
+			"Oseledets, I.",
+			"Müller, E.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	{
+		"name": "Active Subspace of Neural Networks: Structural Analysis and Universal Attacks",
+		"journal":"",
+		"authors": [
+			"Cui, C.",
+			"Zhang, K.",
+			"Daulbaev, T.",
+			"Gusak, J.",
+			"Oseledets, I.",
+			"Zhang, Z.",
+		],
+		"link":"",
+		"text": "",
+		"year": "2019"
+	}
+	
+	
 ]
+
+
