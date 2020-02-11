@@ -1,4 +1,4 @@
-var years = ["2016", "2017", "2018"]
+var years = ["2016", "2017", "2018", "2019"]
 years.forEach(function(e) {
     var str = ""
     var leaders = ["Cichocki Andrzej", "Oseledets Ivan", "Lempitsky Victor", "Evgeny Burnaev", "Khrulkov Valentin", "Vetrov Dmitry", "Phan Anh-Huy"]
