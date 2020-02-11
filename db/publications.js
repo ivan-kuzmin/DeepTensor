@@ -2020,7 +2020,7 @@ var publications = [
 			"Wang, X.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8386437",
 		"text": "",
 		"year": "2019"
 	}
@@ -2032,7 +2032,7 @@ var publications = [
 			"Wang, X.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8579207",
 		"text": "",
 		"year": "2019"
 	}
@@ -2048,7 +2048,7 @@ var publications = [
 			"Yang, Z.",
 			"Sun, Z.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8630915",
 		"text": "",
 		"year": "2019"
 	}
@@ -2064,7 +2064,7 @@ var publications = [
 			"Wang, X.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8353425",
 		"text": "",
 		"year": "2019"
 	}
@@ -2080,12 +2080,12 @@ var publications = [
 			"Gao, F.",
 			
 		],
-		"link":"",
+		"link":"https://www.worldscientific.com/doi/10.1142/S0129065719500023",
 		"text": "",
 		"year": "2019"
 	}
 	{
-		"name": " A hybrid system for distinguishing between brain death and coma using diverse EEG features",
+		"name": "A hybrid system for distinguishing between brain death and coma using diverse EEG features",
 		"journal":"Sensors.",
 		"authors": [
 			"Zhu, L.",
@@ -2109,7 +2109,7 @@ var publications = [
 			"Pukalchik, M.",
 			"Oseledets, I.",
 		],
-		"link":"",
+		"link":"https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0422-z",
 		"text": "",
 		"year": "2019"
 	}
@@ -2133,7 +2133,7 @@ var publications = [
 			"Phan, A-H.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8846103",
 		"text": "",
 		"year": "2019"
 	}
@@ -2148,12 +2148,12 @@ var publications = [
 			"Luta, G.",
 			"Mandic, D.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8984730",
 		"text": "",
 		"year": "2019"
 	}
 	{
-		"name": "“Face representations via Tensorfaces of various complexity",
+		"name": "Face representations via Tensorfaces of various complexity",
 		"journal":"Neural Computation.",
 		"authors": [
 			"Lehky, S. R.",
@@ -2161,12 +2161,12 @@ var publications = [
 			"Cichocki, A.",
 			"Tanaka, K.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8970473?denied=",
 		"text": "",
 		"year": "2019"
 	}
 	{
-		"name": "Correlation-based channel selection and regularized feature optimization for MI-based BCI. ",
+		"name": "Correlation-based channel selection and regularized feature optimization for MI-based BCI",
 		"journal":"Neural Networks.",
 		"authors": [
 			"Jin, J.",
@@ -2176,7 +2176,7 @@ var publications = [
 			"Hu, DW.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://www.sciencedirect.com/science/article/pii/S0893608019301960",
 		"text": "",
 		"year": "2019"
 	}
@@ -2190,7 +2190,7 @@ var publications = [
 			"Wang, X.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://www.frontiersin.org/articles/10.3389/fncom.2019.00024/full",
 		"text": "",
 		"year": "2019"
 	}
@@ -2332,7 +2332,7 @@ var publications = [
 			"Nie, F.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8683840",
 		"text": "",
 		"year": "2019"
 	}
@@ -2347,7 +2347,7 @@ var publications = [
 			"Nie, F.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8682779",
 		"text": "",
 		"year": "2019"
 	}
@@ -2361,7 +2361,7 @@ var publications = [
 			"Nie, F.",
 			"Cichocki, A.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/document/8682439",
 		"text": "",
 		"year": "2019"
 	}
@@ -2387,7 +2387,7 @@ var publications = [
 			"Oseledets, I. V.",
 			"Tsetserukou, D.",
 		],
-		"link":"",
+		"link":"https://ieeexplore.ieee.org/abstract/document/8794341",
 		"text": "",
 		"year": "2019"
 	}
@@ -2418,13 +2418,13 @@ var publications = [
 		"year": "2019"
 	}
 	{
-		"name": "A Simple Method to Evaluate Support Size and Non-uniformity of a Decoder-Based Generative Model.",
+		"name": "A Simple Method to Evaluate Support Size and Non-uniformity of a Decoder-Based Generative Model",
 		"journal":"8th International Conference - Analysis of Images, Social networks and Texts.",
 		"authors": [
 			"Struminsky, K.",
 			"Vetrov, D.",
 		],
-		"link":"",
+		"link":"https://link.springer.com/chapter/10.1007/978-3-030-37334-4_8",
 		"text": "",
 		"year": "2019"
 	}
@@ -2435,7 +2435,7 @@ var publications = [
 			"Sosnovik, I.",
 			"Oseledets, I.",
 		],
-		"link":"",
+		"link":"https://link.springer.com/chapter/10.1007/11550907_9",
 		"text": "",
 		"year": "2019"
 	}
@@ -2448,12 +2448,12 @@ var publications = [
 			"Mirvakhabova, L.",
 			"Oseledets, I.V.",
 		],
-		"link":"",
+		"link":"https://arxiv.org/abs/1901.10787",
 		"text": "",
 		"year": "2019"
 	}
 	{
-		"name": "Reduced-Order Modeling of Deep Neural Networks.",
+		"name": "Reduced-Order Modeling of Deep Neural Networks",
 		"journal":"arXiv preprint arXiv:1910.06995.",
 		"authors": [
 			"Daulbaev, T.",
@@ -2462,12 +2462,12 @@ var publications = [
 			"Cichocki, A.,
 			"Oseledets, I.",
 		],
-		"link":"",
+		"link":"https://arxiv.org/abs/1910.06995",
 		"text": "",
 		"year": "2019"
 	}
 	{
-		"name": "Hyperbolic Image Embeddings.",
+		"name": "Hyperbolic Image Embeddings",
 		"journal":"arXiv preprint arXiv:1904.02239.",
 		"authors": [
 			"Khrulkov, V.",
@@ -2476,18 +2476,18 @@ var publications = [
 			"Oseledets, I.",
 			"Lempitsky, V.",
 		],
-		"link":"",
+		"link":"https://arxiv.org/abs/1904.02239",
 		"text": "",
 		"year": "2019"
 	}
 	{
-		"name": "Universality Theorems for Generative Models.",
+		"name": "Universality Theorems for Generative Models",
 		"journal":"arXiv preprint arXiv:1905.11520.",
 		"authors": [
 			"Khrulkov, V.",
 			"Oseledets, I",
 		],
-		"link":"",
+		"link":"https://arxiv.org/abs/1905.11520",
 		"text": "",
 		"year": "2019"
 	}
@@ -2503,7 +2503,7 @@ var publications = [
 			"Oseledets, I.",
 			"Müller, E.",
 		],
-		"link":"",
+		"link":"https://arxiv.org/abs/1905.11141",
 		"text": "",
 		"year": "2019"
 	}
@@ -2518,7 +2518,7 @@ var publications = [
 			"Oseledets, I.",
 			"Zhang, Z.",
 		],
-		"link":"",
+		"link":"https://arxiv.org/abs/1910.13025",
 		"text": "",
 		"year": "2019"
 	}
