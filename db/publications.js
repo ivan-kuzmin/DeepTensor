@@ -1993,7 +1993,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2018"
-	}
+	},
 	{
 		"name": "Tensor networks for latent variable analysis:  Higher order Canonical Polyadic decomposition",
 		"journal":"IEEE Transactions on Neural Networks and Learning Systems.",
@@ -2008,7 +2008,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Temporally constrained sparse group spatial patterns for motor imagery BCI",
 		"journal":"IEEE Transactions on Cybernetics.",
@@ -2023,7 +2023,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8386437",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Error preserving correction: A method for CP decomposition at a target error bound",
 		"journal":"IEEE Transactions on Signal Processing.",
@@ -2035,7 +2035,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8579207",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "A novel deep learning approach with data augmentation to classify motor imagery signals",
 		"journal":"IEEE Access.",
@@ -2051,7 +2051,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8630915",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Sparse group representation model for motor imagery EEG classification",
 		"journal":"IEEE Journal of Biomedical and Health Informatics.",
@@ -2067,7 +2067,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8353425",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Regularized group sparse discriminant analysis for P300-Based brain-computer interface",
 		"journal":"International Journal of Neural Systems.",
@@ -2083,7 +2083,7 @@ var publications = [
 		"link":"https://www.worldscientific.com/doi/10.1142/S0129065719500023",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "A hybrid system for distinguishing between brain death and coma using diverse EEG features",
 		"journal":"Sensors.",
@@ -2098,7 +2098,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Bayesian optimization for seed germination",
 		"journal":"Plant Methods.",
@@ -2112,7 +2112,7 @@ var publications = [
 		"link":"https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0422-z",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems",
 		"journal":"Frontiers in Neuroscience.",
@@ -2124,7 +2124,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Sensitivity in Tensor Decomposition",
 		"journal":"IEEE Signal processing letters.",
@@ -2136,7 +2136,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8846103",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Tensor networks for latent variable analysis:Novel Algorithms for Tensor Train Approximation",
 		"journal":" IEEE Transactions on Neural Network and Learning System.",
@@ -2151,7 +2151,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8984730",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Face representations via Tensorfaces of various complexity",
 		"journal":"Neural Computation.",
@@ -2164,7 +2164,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8970473?denied=",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Correlation-based channel selection and regularized feature optimization for MI-based BCI",
 		"journal":"Neural Networks.",
@@ -2179,7 +2179,7 @@ var publications = [
 		"link":"https://www.sciencedirect.com/science/article/pii/S0893608019301960",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Investigation of visual stimulus with various colors and the layout for the oddball paradigm in ERP-based BCI",
 		"journal":"Frontiers in Computational Neuroscience.",
@@ -2193,7 +2193,7 @@ var publications = [
 		"link":"https://www.frontiersin.org/articles/10.3389/fncom.2019.00024/full",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Novel hybrid brain-computer interface system based on motor imagery and P300.",
 		"journal":"Cognitive Neurodynamics.",
@@ -2210,7 +2210,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Quadratic programming over ellipsoids and its applications to constrained linear regression and tensor decomposition",
 		"journal":"Neural Computing & Application.",
@@ -2223,7 +2223,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "An Optimized Channel Selection Method Based on Multifrequency CSP-Rank for Motor Imagery-Based BCI System",
 		"journal":"Computational Intelligence and Neuroscience.",
@@ -2239,7 +2239,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "An ERP-based BCI with peripheral stimuli: validation with ALS patients",
 		"journal":"Cognitive Neurodynamics.",
@@ -2258,7 +2258,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Efficient representations of EEG signals for SSVEP frequency recognition based on deep multiset CCA",
 		"journal":"Neurocomputing..",
@@ -2273,7 +2273,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Task-free brainprint recognition based on low-rank and sparse decomposition model",
 		"journal":"International Journal of Data Mining and Bioinformatics.",
@@ -2287,7 +2287,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 
 	{
 		"name": "Effect of a combination of flip and zooming stimuli on the performance of a visual brain-computer interface for spelling",
@@ -2304,7 +2304,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "The Study of Generic Model Set for Reducing Calibration Time in P300-based Brain-Computer Interface",
 		"journal":"IEEE Transactions on Neural Systems and Rehabilitation Engineering.",
@@ -2320,7 +2320,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Flexible non-negative matrix factorization with adaptively learned graph regularization",
 		"journal":"IEEE International Conference on Acoustics, Speech and Signal Processing.",
@@ -2335,7 +2335,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8683840",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Joint structured graph learning and clustering based on concept factorization",
 		"journal":" IEEE International Conference on Acoustics, Speech and Signal Processing.",
@@ -2350,7 +2350,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8682779",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Joint structured graph learning and unsupervised feature selection",
 		"journal":"IEEE International Conference on Acoustics, Speech and Signal Processing.",
@@ -2364,7 +2364,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/document/8682439",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Generalized tensor models for recurrent neural networks",
 		"journal":"International Conference on Learning Representations.",
@@ -2376,7 +2376,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "IceVisionSet: lossless video dataset collected on Russian winter roads with traffic sign annotations",
 		"journal":"EEE International Conference on Robotics and Automation.",
@@ -2390,7 +2390,7 @@ var publications = [
 		"link":"https://ieeexplore.ieee.org/abstract/document/8794341",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Latent convolutional models",
 		"journal":"International Conference on Learning Representations.",
@@ -2402,7 +2402,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "The deep weight prior",
 		"journal":"International Conference on Learning Representations.",
@@ -2416,7 +2416,7 @@ var publications = [
 		"link":"",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "A Simple Method to Evaluate Support Size and Non-uniformity of a Decoder-Based Generative Model",
 		"journal":"8th International Conference - Analysis of Images, Social networks and Texts.",
@@ -2427,7 +2427,7 @@ var publications = [
 		"link":"https://link.springer.com/chapter/10.1007/978-3-030-37334-4_8",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Neural networks for topology optimization",
 		"journal":"Russian journal of numerical analysis and mathematical modelling.",
@@ -2438,7 +2438,7 @@ var publications = [
 		"link":"https://link.springer.com/chapter/10.1007/11550907_9",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Tensorized embedding layers for efficient model compression",
 		"journal":".",
@@ -2451,7 +2451,7 @@ var publications = [
 		"link":"https://arxiv.org/abs/1901.10787",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Reduced-Order Modeling of Deep Neural Networks",
 		"journal":"arXiv preprint arXiv:1910.06995.",
@@ -2465,7 +2465,7 @@ var publications = [
 		"link":"https://arxiv.org/abs/1910.06995",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Hyperbolic Image Embeddings",
 		"journal":"arXiv preprint arXiv:1904.02239.",
@@ -2479,7 +2479,7 @@ var publications = [
 		"link":"https://arxiv.org/abs/1904.02239",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Universality Theorems for Generative Models",
 		"journal":"arXiv preprint arXiv:1905.11520.",
@@ -2490,7 +2490,7 @@ var publications = [
 		"link":"https://arxiv.org/abs/1905.11520",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Intrinsic Multi-scale Evaluation of Generative Models",
 		"journal":"arXiv preprint arXiv:1905.11141.",
@@ -2506,7 +2506,7 @@ var publications = [
 		"link":"https://arxiv.org/abs/1905.11141",
 		"text": "",
 		"year": "2019"
-	}
+	},
 	{
 		"name": "Active Subspace of Neural Networks: Structural Analysis and Universal Attacks",
 		"journal":"",
