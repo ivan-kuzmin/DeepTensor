@@ -6,7 +6,7 @@ var publications = [
 			"Cichocki Andrzej",
 			"Lee Namgil",
 			"Oseledets Ivan",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Zhao Qibin",
 			"Mandic Danilo",
 			"others"
@@ -91,7 +91,7 @@ var publications = [
 		"journal":"IEEE Signal Processing Letters.",
 		"authors": [
 			"Tichavsky Petr",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cichocki Andrzej"
 		],
 		"link":"http://ieeexplore.ieee.org/abstract/document/7485893/",
@@ -146,7 +146,7 @@ var publications = [
 		"name": "Rank-one tensor injection: A novel method for canonical polyadic tensor decomposition",
 		"journal":"Acoustics, Speech and Signal Processing (ICASSP), 2016 IEEE International Conference on.",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Tichavsky Petr",
 			"Cichocki Andrzej"
 		],
@@ -203,7 +203,7 @@ var publications = [
 		"name": "Tensor networks for latent variable analysis. Part I: Algorithms for tensor train decomposition.",
 		"journal":"",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cichocki Andrzej",
 			"Uschmajew Andr'e",
 			"Tichavsky Petr",
@@ -276,7 +276,7 @@ var publications = [
 		"journal":"International Conference on Neural Information Processing.",
 		"authors": [
 			"Lee Namgil",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cong Fengyu",
 			"Cichocki Andrzej"
 		],
@@ -948,7 +948,7 @@ var publications = [
 			"Cichocki A",
 			"Lee N",
 			"Oseledets Ivan",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Zhao Q",
 			"Mandic D"
 		],
@@ -1000,7 +1000,7 @@ var publications = [
 		"journal":"Journal of Vision.",
 		"authors": [
 			"Lehky Sidney",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cichocki Andrzej",
 			"Tanaka Keiji"
 		],
@@ -1012,7 +1012,7 @@ var publications = [
 		"name": "Numerical CP decomposition of some difficult tensors",
 		"journal":"Journal of Computational and Applied Mathematics.",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cichocki A"
 		],
 		"link":"https://arxiv.org/pdf/1603.01372",
@@ -1103,7 +1103,7 @@ var publications = [
 		"name": "An augmented Lagrangian algorithm for decomposition of symmetric tensors of order-4",
 		"journal":" IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Yamagishi Masao",
 			"Cichocki Andrzej"
 		],
@@ -1115,7 +1115,7 @@ var publications = [
 		"name": "Partitioned Hierarchical alternating least squares algorithm for CP tensor decomposition",
 		"journal":" IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Tichavsky Petr",
 			"Cichocki Andrzej"
 		],
@@ -1152,7 +1152,7 @@ var publications = [
 		"name": "Blind source separation of single channel mixture using tensorization and tensor diagonalization",
 		"journal":"International Conference on Latent Variable Analysis and Signal Separation.",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Tichavsky Petr",
 			"Cichocki Andrzej"
 		],
@@ -1246,7 +1246,7 @@ var publications = [
 		"journal":"Foundations and Trends in Machine Learning.",
 		"authors": [
 			"Cichocki Andrzej",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Zhao Qibin",
 			"Lee Namgil",
 			"Oseledets Ivan",
@@ -1264,7 +1264,7 @@ var publications = [
 			"Cichocki Andrzej",
 			"Lee Namgil",
 			"Oseledets Ivan",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Zhao Qibin",
 			"Mandic Danilo"
 		],
@@ -1291,7 +1291,7 @@ var publications = [
 		"journal":"Signal Processing.",
 		"authors": [
 			"Petr Tichavsky",
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cichocki Andrzej"
 		],
 		"link":"http://www.sciencedirect.com/science/article/pii/S0165168417301299",
@@ -1427,7 +1427,7 @@ var publications = [
 		"journal":"Proc. ACL-2017.",
 		"authors": [
 			"Fonarev Alexander",
-			"Aleksey Grinchuk",
+			"Grinchuk Aleksey",
 			"Gusev Gleb",
 			"Serdyukov Pavel",
 			"Oseledets Ivan"
@@ -1598,7 +1598,7 @@ var publications = [
 		"name": "Numerical CP Decomposition of Some Difficult Tensors",
 		"journal":"Journal of Computational and Applied Mathematics.",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Cichocki A"
 		],
 		"link":"http://www.sciencedirect.com/science/article/pii/S0377042716306008",
@@ -1693,7 +1693,7 @@ var publications = [
 		"journal":"(under review on NIPS 2018).",
 		"authors": [
 			"ShahRukh Athar",
-			"Evgeny Burnaev",
+			"Burnaev Evgeny",
 			"Lempitsky Victor"
 		],
 		"link":"https://arxiv.org/abs/1806.06284",
@@ -1881,7 +1881,7 @@ var publications = [
 		"name": "Fast Multispectral Deep Fusion Networks",
 		"journal":"Bulletin of the Polish Academy of Sciences.",
 		"authors": [
-			"Engeny Burnaev",
+			"Burnaev Evgeny",
 			"V. Osin"
 		],
 		"link":"",
@@ -1922,7 +1922,7 @@ var publications = [
 		"name": "Error preserving correction for CPD and bounded-norm CPD",
 		"journal":"IEEE Transaction on Signal Processing.",
 		"authors": [
-			"Phan Anh-Huy",
+			"Phan Anh Huy",
 			"Tichavsky Petr",
 			"Cichocki Andrzej"
 		],
@@ -1998,10 +1998,10 @@ var publications = [
 		"name": "Tensor networks for latent variable analysis:  Higher order Canonical Polyadic decomposition",
 		"journal":"IEEE Transactions on Neural Networks and Learning Systems.",
 		"authors": [
-			"Phan, A.-H.",
-			"Cichocki, A.",
-			"Oseledets, I.",
-			"Ahmadi Asl, S.",
+			"Phan Anh Huy",
+			"Cichocki Andrzej",
+			"Oseledets Ivan",
+			"Ahmadi-Asl Salman ",
 			"Calvi, G.",
 			"Mandic, D.",
 		],
@@ -2018,7 +2018,7 @@ var publications = [
 			"Zhou, G.",
 			"Jin, J.",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8386437",
 		"text": "",
@@ -2028,9 +2028,9 @@ var publications = [
 		"name": "Error preserving correction: A method for CP decomposition at a target error bound",
 		"journal":"IEEE Transactions on Signal Processing.",
 		"authors": [
-			"Phan, A.-H.",
+			"Phan Anh Huy",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8579207",
 		"text": "",
@@ -2044,7 +2044,7 @@ var publications = [
 			"Duan, F.",
 			"Solé-Casals, J.",
 			"Dinarès-Ferran, J.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 			"Yang, Z.",
 			"Sun, Z.",
 		],
@@ -2062,7 +2062,7 @@ var publications = [
 			"Yin, E.",
 			"Jin, J.",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8353425",
 		"text": "",
@@ -2076,7 +2076,7 @@ var publications = [
 			"Zhang, Y.",
 			"Liu, J.",
 			"Sun, J.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 			"Gao, F.",
 			
 		],
@@ -2091,7 +2091,7 @@ var publications = [
 			"Zhu, L.",
 			"Cui, G.",
 			"Cao, J.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 			"Zhang, J.",
 			"Zhou, C.",
 		],
@@ -2107,7 +2107,7 @@ var publications = [
 			"Fastovets, I.",
 			"Shadrin, D.",
 			"Pukalchik, M.",
-			"Oseledets, I.",
+			"Oseledets Ivan",
 		],
 		"link":"https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0422-z",
 		"text": "",
@@ -2119,7 +2119,7 @@ var publications = [
 		"authors": [
 			"Kuzina, A.",
 			"Egorov, E.",
-			"Burnaev, E.",
+			"Burnaev Evgeny",
 		],
 		"link":"",
 		"text": "",
@@ -2130,8 +2130,8 @@ var publications = [
 		"journal":"IEEE Signal processing letters.",
 		"authors": [
 			"Tichavsky, P.",
-			"Phan, A-H.",
-			"Cichocki, A.",
+			"Phan Anh Huy",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8846103",
 		"text": "",
@@ -2141,8 +2141,8 @@ var publications = [
 		"name": "Tensor networks for latent variable analysis:Novel Algorithms for Tensor Train Approximation",
 		"journal":" IEEE Transactions on Neural Network and Learning System.",
 		"authors": [
-			"Phan, A.-H.",
-			"Cichocki, A.",
+			"Phan Anh Huy",
+			"Cichocki Andrzej",
 			"Uschmajew,  A.",
 			"Tichavský, P.",
 			"Luta, G.",
@@ -2157,8 +2157,8 @@ var publications = [
 		"journal":"Neural Computation.",
 		"authors": [
 			"Lehky, S. R.",
-			"Phan, A.-H.",
-			"Cichocki, A.",
+			"Phan Anh Huy",
+			"Cichocki Andrzej",
 			"Tanaka, K.",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8970473?denied=",
@@ -2174,7 +2174,7 @@ var publications = [
 			"Daly, I.",
 			"Zuo, CL.",
 			"Hu, DW.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://www.sciencedirect.com/science/article/pii/S0893608019301960",
 		"text": "",
@@ -2188,7 +2188,7 @@ var publications = [
 			"Jin, J.",
 			"Jiao, Y.",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://www.frontiersin.org/articles/10.3389/fncom.2019.00024/full",
 		"text": "",
@@ -2205,7 +2205,7 @@ var publications = [
 			"Miao, YY.",
 			"Wang, XY.",
 			"Hu, DW.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"",
 		"text": "",
@@ -2215,10 +2215,10 @@ var publications = [
 		"name": "Quadratic programming over ellipsoids and its applications to constrained linear regression and tensor decomposition",
 		"journal":"Neural Computing & Application.",
 		"authors": [
-			"Phan, A.-H.",
+			"Phan Anh Huy",
 			"Yamagashi, M.",
 			"Mandic, D.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"",
 		"text": "",
@@ -2234,7 +2234,7 @@ var publications = [
 			"Zhou, JL.",
 			"Niu, YG.",
 			"Wang, XY.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"",
 		"text": "",
@@ -2252,7 +2252,7 @@ var publications = [
 			"Dong, Y.",
 			"Wang, X.",
 			"Hu, D.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 			"Jin, J.",
 		],
 		"link":"",
@@ -2267,7 +2267,7 @@ var publications = [
 			"Jiao, Y.",
 			"Zuo, C.",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 			"Jin, J.",
 		],
 		"link":"",
@@ -2282,7 +2282,7 @@ var publications = [
 			"Kong, XH.",
 			"Fan, QN.",
 			"Zhao, QB.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"",
 		"text": "",
@@ -2299,7 +2299,7 @@ var publications = [
 			"Zhang, Y.",
 			"Wang, B.",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"",
 		"text": "",
@@ -2315,7 +2315,7 @@ var publications = [
 			"Miao, Y.",
 			"Liu, C.",
 			"Wang, X.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"",
 		"text": "",
@@ -2330,7 +2330,7 @@ var publications = [
 			"Qin, F.",
 			"Kong, W.",
 			"Nie, F.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8683840",
 		"text": "",
@@ -2345,7 +2345,7 @@ var publications = [
 			"Kong, W.",
 			"Zhang, J.",
 			"Nie, F.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8682779",
 		"text": "",
@@ -2359,7 +2359,7 @@ var publications = [
 			"Zhang, L.",
 			"Kong, W.",
 			"Nie, F.",
-			"Cichocki, A.",
+			"Cichocki Andrzej",
 		],
 		"link":"https://ieeexplore.ieee.org/document/8682439",
 		"text": "",
@@ -2369,9 +2369,9 @@ var publications = [
 		"name": "Generalized tensor models for recurrent neural networks",
 		"journal":"International Conference on Learning Representations.",
 		"authors": [
-			"Khrulkov, V.",
+			"Khrulkov Valentin",
 			"Hrinchuk, O.",
-			"Oseledets, I.V.",
+			"Oseledets Ivan",
 		],
 		"link":"",
 		"text": "",
@@ -2384,7 +2384,7 @@ var publications = [
 			"Pavlov, A.",
 			"Karpyshev, P.",
 			"Ovchinnikov, G.",
-			"Oseledets, I. V.",
+			"Oseledets Ivan",
 			"Tsetserukou, D.",
 		],
 		"link":"https://ieeexplore.ieee.org/abstract/document/8794341",
@@ -2396,8 +2396,8 @@ var publications = [
 		"journal":"International Conference on Learning Representations.",
 		"authors": [
 			"Athar, S.",
-			"Burnaev, E.",
-			"Lempitsky, V. S.",
+			"Burnaev Evgeny",
+			"Lempitsky Victor",
 		],
 		"link":"",
 		"text": "",
@@ -2433,7 +2433,7 @@ var publications = [
 		"journal":"Russian journal of numerical analysis and mathematical modelling.",
 		"authors": [
 			"Sosnovik, I.",
-			"Oseledets, I.",
+			"Oseledets Ivan",
 		],
 		"link":"https://link.springer.com/chapter/10.1007/11550907_9",
 		"text": "",
@@ -2443,10 +2443,10 @@ var publications = [
 		"name": "Tensorized embedding layers for efficient model compression",
 		"journal":".",
 		"authors": [
-			"Khrulkov, V.",
+			"Khrulkov Valentin",
 			"Hsinchu, O.",
 			"Mirvakhabova, L.",
-			"Oseledets, I.V.",
+			"Oseledets Ivan",
 		],
 		"link":"https://arxiv.org/abs/1901.10787",
 		"text": "",
@@ -2456,11 +2456,11 @@ var publications = [
 		"name": "Reduced-Order Modeling of Deep Neural Networks",
 		"journal":"arXiv preprint arXiv:1910.06995.",
 		"authors": [
-			"Daulbaev, T.",
-			"Gusak, J.",
+			"Daulbaev Talgat",
+			"Gusak Yuliya",
 			"Ponomarev, E.",
-			"Cichocki, A.,
-			"Oseledets, I.",
+			"Cichocki Andrzej,
+			"Oseledets Ivan",
 		],
 		"link":"https://arxiv.org/abs/1910.06995",
 		"text": "",
@@ -2470,11 +2470,11 @@ var publications = [
 		"name": "Hyperbolic Image Embeddings",
 		"journal":"arXiv preprint arXiv:1904.02239.",
 		"authors": [
-			"Khrulkov, V.",
-			"Mirvakhabova, L.",
+			"Khrulkov Valentin",
+			"Mirvakhabova Leyla",
 			"Ustinova, E.",
-			"Oseledets, I.",
-			"Lempitsky, V.",
+			"Oseledets Ivan",
+			"Lempitsky Victor",
 		],
 		"link":"https://arxiv.org/abs/1904.02239",
 		"text": "",
@@ -2484,8 +2484,8 @@ var publications = [
 		"name": "Universality Theorems for Generative Models",
 		"journal":"arXiv preprint arXiv:1905.11520.",
 		"authors": [
-			"Khrulkov, V.",
-			"Oseledets, I",
+			"Khrulkov Valentin",
+			"Oseledets Ivan",
 		],
 		"link":"https://arxiv.org/abs/1905.11520",
 		"text": "",
@@ -2500,7 +2500,7 @@ var publications = [
 			"Mottin, D.",
 			"Karras, P.",
 			"Bronstein, A.",
-			"Oseledets, I.",
+			"Oseledets Ivan",
 			"Müller, E.",
 		],
 		"link":"https://arxiv.org/abs/1905.11141",
@@ -2513,17 +2513,13 @@ var publications = [
 		"authors": [
 			"Cui, C.",
 			"Zhang, K.",
-			"Daulbaev, T.",
-			"Gusak, J.",
-			"Oseledets, I.",
+			"Daulbaev Talgat",
+			"Gusak Yuliya",
+			"Oseledets Ivan",
 			"Zhang, Z.",
 		],
 		"link":"https://arxiv.org/abs/1910.13025",
 		"text": "",
 		"year": "2019"
 	}
-	
-	
 ]
-
-
