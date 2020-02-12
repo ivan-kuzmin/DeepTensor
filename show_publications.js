@@ -1,7 +1,7 @@
 var years = ["2016", "2017", "2018", "2019"]
 years.forEach(function(e) {
     var str = ""
-    var leaders = ["Andrzej Cichocki", "Ivan Oseledets", Victor Lempitsky", "Evgeny Burnaev", "Anh Huy Phan" "Valentin Khrulkov", "Dmitry Vetrov"]
+    var leaders = ["Andrzej Cichocki", "Ivan Oseledets", "Victor Lempitsky", "Evgeny Burnaev", "Anh Huy Phan" "Valentin Khrulkov", "Dmitry Vetrov"]
     for (var i = 0; i < publications.length; i++) {
         if (publications[i].year == e) {
             var authors = ""
