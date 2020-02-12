@@ -2410,7 +2410,7 @@ var publications = [
 			" Atanov, A.",
 			"Ashukha, A.",
 			"Struminsky, K.",
-			"Vetrov, D.P.",
+			"Vetrov Dmitry",
 			"Welling, M.",
 		],
 		"link":"",
@@ -2422,7 +2422,7 @@ var publications = [
 		"journal":"8th International Conference - Analysis of Images, Social networks and Texts.",
 		"authors": [
 			"Struminsky, K.",
-			"Vetrov, D.",
+			"Vetrov Dmitry",
 		],
 		"link":"https://link.springer.com/chapter/10.1007/978-3-030-37334-4_8",
 		"text": "",
