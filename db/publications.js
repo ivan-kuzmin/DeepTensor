@@ -2441,11 +2441,11 @@ var publications = [
 	},
 	{
 		"name": "Tensorized embedding layers for efficient model compression",
-		"journal":".",
+		"journal":"arXiv preprint arXiv:1901.10787",
 		"authors": [
 			"Khrulkov Valentin",
 			"Hsinchu, O.",
-			"Mirvakhabova, L.",
+			"Mirvakhabova Leyla",
 			"Oseledets Ivan"
 		],
 		"link":"https://arxiv.org/abs/1901.10787",
@@ -2454,12 +2454,12 @@ var publications = [
 	},
 	{
 		"name": "Reduced-Order Modeling of Deep Neural Networks",
-		"journal":"arXiv preprint arXiv:1910.06995.",
+		"journal":"arXiv preprint arXiv:1910.06995",
 		"authors": [
 			"Daulbaev Talgat",
 			"Gusak Yuliya",
 			"Ponomarev, E.",
-			"Cichocki Andrzej,
+			"Cichocki Andrzej",
 			"Oseledets Ivan"
 		],
 		"link":"https://arxiv.org/abs/1910.06995",
