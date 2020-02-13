@@ -2458,7 +2458,7 @@ var publications = [
 		"authors": [
 			"Daulbaev Talgat",
 			"Gusak Yuliya",
-			"Ponomarev, E.",
+			"Ponomarev Evgeny",
 			"Cichocki Andrzej",
 			"Oseledets Ivan"
 		],
