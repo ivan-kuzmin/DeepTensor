@@ -1,7 +1,7 @@
 var years = ["2016", "2017", "2018", "2019"]
 years.forEach(function(e) {
     var str = ""
-    var leaders = ["Cichocki Andrzej", "Oseledets Ivan", "Lempitsky Victor", "Burnaev Evgeny", "Phan Anh Huy", "Gusak Yuliya", "Shchutskiy Roman", "Ahmadi-Asl Salman", "Sedighin Farnaz", "Frolov Evgeny", "Khrulkov Valentin", "Daulbaev Talgat", "Grinchuk Aleksey", "Markeeva Larisa", "Chertkov Andrei", "Asante-Mensah Maame", "Sozykin Konstantin", "Sobolev Konstantin", "Vorona Igor", "Ponamarev Evgeny", "Mirvakhabova Leyla", "Znobishchev Andrei", "Ermilov Dmitrii", "Abukhovich Stanislav", "Vetrov Dmitry"]
+    var leaders = ["Cichocki Andrzej", "Oseledets Ivan", "Lempitsky Victor", "Burnaev Evgeny", "Phan Anh Huy", "Gusak Yuliya", "Shchutskiy Roman", "Ahmadi-Asl Salman", "Sedighin Farnaz", "Frolov Evgeny", "Khrulkov Valentin", "Daulbaev Talgat", "Grinchuk Aleksey", "Markeeva Larisa", "Chertkov Andrei", "Asante-Mensah Maame", "Sozykin Konstantin", "Sobolev Konstantin", "Vorona Igor", "Ponomarev Evgeny", "Mirvakhabova Leyla", "Znobishchev Andrei", "Ermilov Dmitrii", "Abukhovich Stanislav", "Vetrov Dmitry"]
     for (var i = 0; i < publications.length; i++) {
         if (publications[i].year == e) {
             var authors = ""
