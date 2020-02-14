@@ -2003,7 +2003,7 @@ var publications = [
 			"Oseledets Ivan",
 			"Ahmadi-Asl Salman ",
 			"Calvi, G.",
-			"Mandic, D."
+			"Mandic, D"
 		],
 		"link":"",
 		"text": "",
@@ -2046,7 +2046,7 @@ var publications = [
 			"Dinarès-Ferran, J.",
 			"Cichocki Andrzej",
 			"Yang, Z.",
-			"Sun, Z."
+			"Sun, Z"
 		],
 		"link":"https://ieeexplore.ieee.org/document/8630915",
 		"text": "",
@@ -2077,7 +2077,7 @@ var publications = [
 			"Liu, J.",
 			"Sun, J.",
 			"Cichocki Andrzej",
-			"Gao, F."
+			"Gao, F"
 			
 		],
 		"link":"https://www.worldscientific.com/doi/10.1142/S0129065719500023",
@@ -2093,7 +2093,7 @@ var publications = [
 			"Cao, J.",
 			"Cichocki Andrzej",
 			"Zhang, J.",
-			"Zhou, C."
+			"Zhou, C"
 		],
 		"link":"",
 		"text": "",
@@ -2146,7 +2146,7 @@ var publications = [
 			"Uschmajew,  A.",
 			"Tichavský, P.",
 			"Luta, G.",
-			"Mandic, D."
+			"Mandic, D"
 		],
 		"link":"https://ieeexplore.ieee.org/document/8984730",
 		"text": "",
@@ -2159,7 +2159,7 @@ var publications = [
 			"Lehky, S. R.",
 			"Phan Anh Huy",
 			"Cichocki Andrzej",
-			"Tanaka, K."
+			"Tanaka, K"
 		],
 		"link":"https://ieeexplore.ieee.org/document/8970473?denied=",
 		"text": "",
@@ -2253,7 +2253,7 @@ var publications = [
 			"Wang, X.",
 			"Hu, D.",
 			"Cichocki Andrzej",
-			"Jin, J."
+			"Jin, J"
 		],
 		"link":"",
 		"text": "",
@@ -2268,7 +2268,7 @@ var publications = [
 			"Zuo, C.",
 			"Wang, X.",
 			"Cichocki Andrzej",
-			"Jin, J."
+			"Jin, J"
 		],
 		"link":"",
 		"text": "",
@@ -2370,7 +2370,7 @@ var publications = [
 		"journal":"International Conference on Learning Representations.",
 		"authors": [
 			"Khrulkov Valentin",
-			"Hrinchuk, O.",
+			"Grinchuk Aleksey",
 			"Oseledets Ivan"
 		],
 		"link":"",
@@ -2385,7 +2385,7 @@ var publications = [
 			"Karpyshev, P.",
 			"Ovchinnikov, G.",
 			"Oseledets Ivan",
-			"Tsetserukou, D."
+			"Tsetserukou, D"
 		],
 		"link":"https://ieeexplore.ieee.org/abstract/document/8794341",
 		"text": "",
@@ -2411,7 +2411,7 @@ var publications = [
 			"Ashukha, A.",
 			"Struminsky, K.",
 			"Vetrov Dmitry",
-			"Welling, M."
+			"Welling, M"
 		],
 		"link":"",
 		"text": "",
@@ -2501,7 +2501,7 @@ var publications = [
 			"Karras, P.",
 			"Bronstein, A.",
 			"Oseledets Ivan",
-			"Müller, E."
+			"Müller, E"
 		],
 		"link":"https://arxiv.org/abs/1905.11141",
 		"text": "",
@@ -2516,7 +2516,7 @@ var publications = [
 			"Daulbaev Talgat",
 			"Gusak Yuliya",
 			"Oseledets Ivan",
-			"Zhang, Z."
+			"Zhang, Z"
 		],
 		"link":"https://arxiv.org/abs/1910.13025",
 		"text": "",
